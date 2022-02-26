@@ -1,0 +1,219 @@
+@media all and (max-width:1040px) {
+    .info .info-heading{
+        font-size: 3.5rem;
+    }
+    .info .info-desc{
+        font-size: 1.4rem;
+    }
+    .info .info-button{
+        font-size: 1.2em;
+    }
+}
+@media all and (max-width:822px) {
+    .info .info-heading{
+        font-size: 3.1rem;
+    }
+    .info .info-desc{
+        font-size: 1.2rem;
+    }
+    .info .info-button{
+        font-size: 1.08em;
+    }
+}
+
+@media all and (max-width:970px) {
+    .header {
+          aspect-ratio:4 / 2.2;
+      }
+}
+@media all and (max-width:780px) {
+    .header {
+          aspect-ratio:4 / 2.7;
+      }
+}
+@media all and (max-width:652px) {
+    .header {
+          aspect-ratio:4 / 3.3;
+      }
+}
+@media all and (max-width:538px) {
+    .header {
+          aspect-ratio:4 / 4;
+      }
+      .info .info-heading{
+        font-size: 2.8rem;
+    }
+    .info .info-desc{
+        font-size: 1.3rem;
+    }
+    .info .info-button{
+        font-size: 1.2em;
+    }
+}
+@media all and (max-width:464px) {
+    .header {
+          aspect-ratio:4 / 4.6;
+      }
+      .info .info-heading{
+        font-size: 2.5rem;
+    }
+    .info .info-desc{
+        font-size: 1.2rem;
+    }
+    .info .info-button{
+        font-size: 1.16em;
+    }
+}
+@media all and (max-width:380px) {
+    .header {
+          aspect-ratio:4 / 5.6;
+      }
+      .info .info-heading{
+        font-size: 2.5rem;
+    }
+    .info .info-desc{
+        font-size: 1.2rem;
+    }
+    .info .info-button{
+        font-size: 1.16em;
+    }
+}
+@media all and (max-width:336px) {
+    .header {
+          aspect-ratio:4 / 6.4;
+      }
+      .info .info-heading{
+        font-size: 2.4rem;
+    }
+    .info .info-desc{
+        font-size: 1.1rem;
+    }
+    .info .info-button{
+        font-size: 1.1em;
+    }
+}
+@media all and (max-width:310px) {
+    .header {
+          aspect-ratio:4 / 6.9;
+      }
+      .info .info-heading{
+        font-size: 2.4rem;
+    }
+    .info .info-desc{
+        font-size: 1.1rem;
+    }
+    .info .info-button{
+        font-size: 1.1em;
+    }
+}
+@media all and (max-width:580px) {
+    .nav-links-div{
+        display: none;
+    }
+    i.fa-bars.fas{
+        display: block;
+    }
+}
+
+@media all and (max-width:1300px) {
+    .form-image [alt="form-image"]{
+        width: 350px;
+        max-width: 520px;
+    }
+}
+@media all and (max-width:1229px) {
+    .form-image [alt="form-image"]{
+        width: 300px;
+        max-width: 520px;
+    }
+}
+@media all and (max-width:1083px) {
+    .form-image [alt="form-image"]{
+        width: 280px;
+        max-width: 520px;
+    }
+}
+@media all and (max-width:1043px) {
+    .form-image [alt="form-image"]{
+        width: 250px;
+        max-width: 520px;
+    }
+}
+@media all and (max-width:1023px) {
+    .form-image [alt="form-image"]{
+        width: 240px;
+        max-width: 520px;
+    }
+}
+@media all and (max-width:997px) {
+    .form-image {
+        display: none;
+    }
+    section.section-3{
+        width: 100%;
+    }
+    .section-3 .form{
+        width: 100%;
+        }
+        [action="script.html"]{
+            width: 70%;
+            margin: 0 auto;
+        }
+}
+@media all and (max-width:592px) {
+    main .main-wrapper{
+        flex-direction: column;
+        text-align: center;
+    }  
+}
+@media all and (max-width:454px) {
+    main{
+        width: 100%;
+    }  
+}
+@media all and (max-width:392px) {
+    main .grid-wrapper{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    section.section-1 .main-wrapper img{
+        width: 55px;
+    }
+    
+}
+@media all and (max-width:944px) {
+    section.section-2 .section-2-heading{
+    font-size: 3rem;
+    }
+}
+@media all and (max-width:832px) {
+    section.section-2 .section-2-heading{
+    font-size: 2.6rem;
+    }
+    .section-2 .section-2-desc{
+        font-size: 1rem;
+    }
+}
+@media all and (max-width:732px) {
+    section.section-2 .section-2-heading{
+    font-size: 2.4rem;
+    }
+    .section-2 .section-2-desc{
+        font-size: 0.96rem;
+    }
+    section.section-2 .section-2-image{
+        display: none;
+    }
+    section.section-2 .free-info{
+        margin: 2.8em auto;
+    }
+}
+@media all and (max-width:444px) {
+    section.section-2{
+        padding: 0em 0.7em;
+    }
+}
+@media all and (max-width:380px) {
+        p[style="text-align: center; color: rgb(138, 138, 138);"]{
+            font-size: 0.95rem;
+        }
+}
