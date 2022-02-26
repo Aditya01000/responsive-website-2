@@ -12,7 +12,7 @@
 
 
 
-![Alt Text](hhttps://media.giphy.com/media/meUZW6tO70jZkMoP4k/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/meUZW6tO70jZkMoP4k/giphy.gif) 
  
 ## FAQ
 
