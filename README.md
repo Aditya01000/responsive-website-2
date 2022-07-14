@@ -18,7 +18,7 @@
 
 #### Question 1 - Can you provide a link of your project thorugh hosting websites?
 
-Answer - Sure, here it is **https://aditya-sharma-website.netlify.app**
+Answer - Sure, here it is **https://philisopher-static.netlify.app**
 
 ## 🚀 End
 Hope this project helps you to learn something new. :D
